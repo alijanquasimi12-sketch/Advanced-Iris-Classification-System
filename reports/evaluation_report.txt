@@ -1,0 +1,16 @@
+DecodeLabs Project 2 - AI Classification Report
+=============================================
+Algorithm: K-Nearest Neighbors (K=31)
+
+Performance Metrics:
+- Accuracy:  0.8667
+- Precision: 0.8750
+- Recall:    0.8667
+- F1 Score:  0.8653
+
+Confusion Matrix:
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  3  7]]
+
+Generated automatically by K. M. A² Intelligence Framework.
